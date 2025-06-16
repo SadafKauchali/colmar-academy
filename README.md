@@ -11,6 +11,6 @@ This is a responsive **landing page** for a fictional educational institution ca
 - 🧭 Navigation bar with sections: Home, About, Courses, Campus, and more
 - 📱 Mobile-optimized flex layouts
 
-Live Link :sadafkauchali.github.io/colmar-academy/
+Live Link : https://sadafkauchali.github.io/colmar-academy/
 
 
